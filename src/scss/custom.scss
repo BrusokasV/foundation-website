@@ -1,0 +1,8 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+$theme-colors: (
+  "blood-red": #73020a
+);
+
+@import "node_modules/bootstrap/scss/bootstrap";
