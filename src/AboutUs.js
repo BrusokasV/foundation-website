@@ -12,7 +12,7 @@ function AboutUs() {
                 <div class="container py-5">
                 <h1 class="text-body-emphasis">Our Mission</h1>
                 <p class="col-lg-8 mx-auto lead">
-                To put it simply, we believe that self expression is the highest virtue, and must be cultivated.
+                To put it simply, he believed that self expression is the highest virtue, and must be cultivated. Now, The Messerschmidt Foundation works to see through this belief, to support artists all around the world, by providing grants to them and sharing their artworks with the world.
                 </p>
                 </div>
             </div>

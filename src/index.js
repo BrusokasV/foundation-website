@@ -7,6 +7,7 @@ import Homepage from './Homepage';
 import Collection from './Collection';
 import AboutUs from './AboutUs';
 import Footer from './Footer';
+import Artworks from './Artworks';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -16,6 +17,7 @@ root.render(
     <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/collection" element={<Collection />} />
+        <Route path="/artworks" element={<Artworks />} />
         <Route path="/about-us" element={<AboutUs />} />
         {/* <Route path="*" element={<NoPage />} /> */}
     </Routes>
