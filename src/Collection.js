@@ -2,11 +2,11 @@ import React from 'react';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './scss/custom.scss';
-import Navbar from './Navbar';
 
 function Collection() {
     return (
-        <main className="mt-5">
+        <main>
+        <div className="my-4">.</div>
 
         <section className="py-2 text-center container">
             <div className="row py-lg-5">
@@ -164,18 +164,6 @@ function Collection() {
             </div>
             </div>
         </div>
-
-        <div class="container">
-        <footer class="py-3 my-4">
-            <div class="nav justify-content-center text-center border-bottom pb-3 mb-3 px-2 text-body-secondary">
-                Contact The Messerschmidt Foundation:<br/>
-                1 Rue Revanche, 1969 Kirchberg Luxemburg, Luxembourg<br/>
-                tomas.messerschmidt@gmail.com
-            </div>
-            <p class="text-center text-body-secondary">&copy; 2024 The Messerschmidt Foundation</p>
-        </footer>
-        </div>
-
         </main>
     )
 }

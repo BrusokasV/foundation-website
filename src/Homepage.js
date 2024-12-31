@@ -5,7 +5,8 @@ import './scss/custom.scss';
 
 function Homepage() {
     return (
-        <main className="mt-5">
+        <main>
+            <div className="my-4">.</div>
             Homepage placeholder
         </main>
     )

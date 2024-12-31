@@ -6,6 +6,7 @@ import Navbar from './Navbar';
 import Homepage from './Homepage';
 import Collection from './Collection';
 import AboutUs from './AboutUs';
+import Footer from './Footer';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -18,6 +19,7 @@ root.render(
         <Route path="/about-us" element={<AboutUs />} />
         {/* <Route path="*" element={<NoPage />} /> */}
     </Routes>
+    <Footer />
   </BrowserRouter>
 );
 
