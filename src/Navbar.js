@@ -8,7 +8,7 @@ function Navbar() {
         <div>
             <nav className="navbar navbar-expand-md navbar-dark fixed-top bg-blood-red">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="#">The Messerschmidt Foundation</a>
+                    <a className="navbar-brand" onClick={(e) => e.preventDefault()}>The Messerschmidt Foundation</a>
                     <div className="d-flex" id="navbarCollapse">
                         <ul className="navbar-nav me-auto mb-2 mb-md-0">
                             <li className="nav-item">

@@ -23,15 +23,15 @@ function AboutUs() {
                     <div class="row align-items-md-stretch">
                     <div class="col-md-6">
                         <div class="h-100 p-5 text-bg-dark rounded-3">
-                        <h2>Change the background</h2>
-                        <p>Swap the background-color utility and add a `.text-*` color utility to mix up the jumbotron look. Then, mix and match with additional component themes and more.</p>
+                        <h2>Some information</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
                         <button class="btn btn-outline-light" type="button">Example button</button>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="h-100 p-5 bg-body-tertiary border rounded-3">
-                        <h2>Add borders</h2>
-                        <p>Or, keep it light and add a border for some added definition to the boundaries of your content. Be sure to look under the hood at the source HTML here as we've adjusted the alignment and sizing of both column's content for equal-height.</p>
+                        <h2>More information</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         <button class="btn btn-outline-secondary" type="button">Example button</button>
                         </div>
                     </div>
@@ -45,8 +45,8 @@ function AboutUs() {
                     </div>
                     <div class="col-md-6">
                         <div class="h-100 p-5 text-bg-blood-red rounded-3">
-                        <h2>Change the background</h2>
-                        <p>Swap the background-color utility and add a `.text-*` color utility to mix up the jumbotron look. Then, mix and match with additional component themes and more.</p>
+                        <h2>The Case of Marcus Messerschmidt</h2>
+                        <p>On the 22nd of July 2001, Marcus and his wife, Helen, have been found dead in their flat. Helen had all her blood drained to the floor, while Marcus's body shown no visible wounds. There was no sign of a break-in. Their deaths were tragic, horrifying and inexplicable.</p>
                         </div>
                     </div>
                     </div>
